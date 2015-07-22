@@ -5,3 +5,7 @@
 * Databases
 * GitHub
 * Cars
+
+#### Vacation Spots
+* Not work
+* Not home
