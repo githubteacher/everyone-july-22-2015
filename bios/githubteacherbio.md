@@ -1,6 +1,6 @@
 # GitHub Teacher
 
 ### Interests
-- teaching
+- Teaching
 - GitHub
 - Octocats
